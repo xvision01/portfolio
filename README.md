@@ -14,3 +14,6 @@ Open `index.html` in a browser.
 
 ## Customize
 Replace the sample name, bio, project descriptions, skills, email address, and GitHub link in `index.html`.
+
+## Featured project
+- **3DEarth** — an interactive 3D globe where users can select countries and explore useful facts.
